@@ -12,5 +12,7 @@ data formatting, Presentation,
 . Team Collaboration: Working alongside talented individuals from diverse backgrounds, learning the importance of effective communication and teamwork.
 
 . Data Analysis: Diving deep into data analysis techniques and tools, enhancing analytical skills and understanding the role of data in decision-making.
+
 . Global Perspective: Gaining insights into Accenture's global reach and impact, and understanding the intersection of technology, business, and society on a global scale.
+
 . Continuous Learning: Emphasizing the importance of lifelong learning and adaptability in today's rapidly evolving landscape.
